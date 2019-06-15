@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+    "textures": {
+        "particle": "block/redstone_dust_dot",
+        "line": "block/redstone_dust_dot",
+        "overlay": "block/redstone_dust_overlay"
+    },
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 1.25, 11],
+			"faces": {
+				"north": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
+				"east": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
+				"south": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
+				"west": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
+				"up": {"uv": [5.032, 5.032, 10.968, 10.968], "texture": "#line", "tintindex": 0},
+				"down": {"uv": [5.032, 5.032, 10.968, 10.968], "texture": "#line", "tintindex": 0}
+			}
+		}
+	]
+}
