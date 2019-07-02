@@ -1,15 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
-    "textures": {
-        "particle": "block/redstone_dust_dot",
-        "line": "block/redstone_dust_dot",
-        "overlay": "block/redstone_dust_overlay"
-    },
+	"textures": {
+		"line": "block/redstone_dust_dot",
+		"particle": "block/redstone_dust_dot"
+	},
 	"elements": [
 		{
 			"from": [5, 0, 5],
-			"to": [11, 1.25, 11],
+			"to": [11, 2, 11],
 			"faces": {
 				"north": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
 				"east": {"uv": [5.032, 5.032, 10.968, 5.968], "texture": "#line", "tintindex": 0},
