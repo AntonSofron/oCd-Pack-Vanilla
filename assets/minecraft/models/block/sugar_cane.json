@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/sugar_cane_top",
+		"particle": "block/sugar_cane",
+		"reeds": "block/sugar_cane"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [2, 0, 2],
+			"to": [6, 16, 6],
+			"faces": {
+				"north": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"east": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"south": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"west": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "3",
+			"from": [10, 0, 10],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"east": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"south": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"west": {"uv": [2, 0, 6, 16], "texture": "#reeds"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#1"}
+			}
+		}
+	]
+}
