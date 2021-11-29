@@ -2,7 +2,7 @@
 	"credit": "AntonLandao",
 	"parent": "block/template_torch",
 	"textures": {
-		"0": "block/redstone_torch_off"
+		"0": "block/redstone_torch_off",
 		"particle": "block/redstone_torch_off"
 	},
 	"elements": [
