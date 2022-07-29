@@ -2,7 +2,9 @@
   "variants": {
     "": [
       { "model": "block/warped_fungus/plant/0" },
-      { "model": "block/warped_fungus/plant/1" }
+      { "model": "block/warped_fungus/plant/1" },
+	  { "model": "block/warped_fungus/plant/2" },
+      { "model": "block/warped_fungus/plant/3" }
     ]
   }
 }

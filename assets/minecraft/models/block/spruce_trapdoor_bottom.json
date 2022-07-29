@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/thin_block",
+	"textures": {
+		"1": "block/spruce_trapdoor_bottom_side",
+		"2": "block/spruce_trapdoor_bottom",
+		"particle": "block/spruce_trapdoor",
+		"texture": "block/spruce_trapdoor"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 3, 16],
+			"faces": {
+				"north": {"uv": [0, 2, 16, 0], "rotation": 180, "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 4, 16, 6], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 2, 16, 4], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#texture"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}

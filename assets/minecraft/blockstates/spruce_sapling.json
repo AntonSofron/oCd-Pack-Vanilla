@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/spruce_sapling/block/0" },
+      { "model": "block/spruce_sapling/block/1" },
+	  { "model": "block/spruce_sapling/block/2" },
+	  { "model": "block/spruce_sapling/block/3" }
+    ]
+  }
+}

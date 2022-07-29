@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/mangrove_sapling/block/0" },
+      { "model": "block/mangrove_sapling/block/1" }
+    ]
+  }
+}
