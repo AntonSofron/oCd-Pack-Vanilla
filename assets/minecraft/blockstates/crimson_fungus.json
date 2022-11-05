@@ -2,7 +2,11 @@
   "variants": {
     "": [
       { "model": "block/crimson_fungus/plant/0" },
-      { "model": "block/crimson_fungus/plant/1" }
+      { "model": "block/crimson_fungus/plant/1" },
+	  { "model": "block/crimson_fungus/plant/2" },
+	  { "model": "block/crimson_fungus/plant/3" },
+	  { "model": "block/crimson_fungus/plant/4" },
+	  { "model": "block/crimson_fungus/plant/5" }
     ]
   }
 }

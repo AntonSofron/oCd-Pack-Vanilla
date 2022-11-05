@@ -2,7 +2,9 @@
   "variants": {
     "": [
       { "model": "block/brown_mushroom/block/0" },
-      { "model": "block/brown_mushroom/block/1" }
+      { "model": "block/brown_mushroom/block/1" },
+	  { "model": "block/brown_mushroom/block/2" },
+	  { "model": "block/brown_mushroom/block/3" }
     ]
   }
 }
